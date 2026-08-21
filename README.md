@@ -72,10 +72,40 @@ The dataset contains e-commerce sales information including orders, products, ca
 
 ## Customer Analysis
 
-- Top customers
-- Repeat customers
-- Customer spending
-- Customer activity
+- **How many unique customers are there?** 168
+- **Which customers generate the most revenue?** 
+    1. MULBERRIES BOUTIQUE — 2,094,070.5  
+    2. AMANI CONCEPT TRADING LLC (KAPDA) — 930,451.0  
+    3. VAHARSHA BOUTIQUE — 588,760.0  
+    4. GALAXY GROUP OF COMPANIES PVT. LTD — 445,058.0  
+    5. RIVAAN LLC — 443,042.0  
+    6. BHANU SALEINE NAUNITHAM — 429,098.0  
+    7. SURE FASHIONS LLC — 403,253.0  
+    8. COTTON CLOSET LTD — 345,265.0  
+    9. VISHA DEVAN — 321,028.0  
+    10. NIRUSAH TAILORING — 316,470.0
+- **What is the average spending per customer?** - 97,592.85
+- **What is the average number of orders per customer?** - 221.49
+- **How is revenue distributed across top customers?**
+    | # | CUSTOMER | customer_revenue | revenue_percentage |
+| --- | --- | --- | --- |
+| 1 | MULBERRIES BOUTIQUE | 2094070.5 | 12.77 |
+| 2 | AMANI CONCEPT TRADING LLC (KAPDA) | 930451.0 | 5.68 |
+| 3 | VAHARSHA BOUTIQUE | 588760.0 | 3.59 |
+| 4 | GALAXY GROUP OF COMPANIES PVT. LTD | 445058.0 | 2.71 |
+| 5 | RIVAAN LLC | 443042.0 | 2.7 |
+| 6 | BHANU SALEINE NAUNITHAM | 429098.0 | 2.62 |
+| 7 | SURE FASHIONS LLC | 403253.0 | 2.46 |
+| 8 | COTTON CLOSET LTD | 345265.0 | 2.11 |
+| 9 | VISHA DEVAN | 321028.0 | 1.96 |
+| 10 | NIRUSAH TAILORING | 316470.0 | 1.93 |
+
+### Summary
+Customer base size: The dataset contains 168 unique customers.
+Top revenue customers: A small subset of customers generates the highest share of revenue (shown in the “top customers by revenue” chart), indicating revenue concentration among leading accounts.
+Average spend per customer: Customers spend an average of 97,592.85 (currency not specified) over the observed period.
+Average orders per customer: Each customer places an average of 221.49 orders, suggesting frequent repeat purchasing behavior.
+Revenue distribution: The revenue distribution chart shows that revenue is not evenly spread across customers—it is skewed, with higher revenue contributions coming from a smaller number of customers.
 
 ## Product Analysis
 
