@@ -100,9 +100,13 @@ The dataset contains e-commerce sales information including orders, products, ca
 
 ### Summary
 Customer base size: The dataset contains 168 unique customers.
+
 Top revenue customers: A small subset of customers generates the highest share of revenue (shown in the “top customers by revenue” chart), indicating revenue concentration among leading accounts.
+
 Average spend per customer: Customers spend an average of 97,592.85 (currency not specified) over the observed period.
+
 Average orders per customer: Each customer places an average of 221.49 orders, suggesting frequent repeat purchasing behavior.
+
 Revenue distribution: The revenue distribution chart shows that revenue is not evenly spread across customers—it is skewed, with higher revenue contributions coming from a smaller number of customers.
 
 ## Product Analysis
