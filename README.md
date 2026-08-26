@@ -157,7 +157,7 @@ Revenue distribution: The revenue distribution chart shows that revenue is not e
 8) Bottom | 353.90765171504
 9) Dupatta | 305.0
 
-- **products generating the most revenue**
+- **Products generating the most revenue**
 1) J0230-SKD-M | 483611.0 |
 2) JNE3797-KR-L | 470083.0 |
 3) J0230-SKD-S | 448825.0 |
