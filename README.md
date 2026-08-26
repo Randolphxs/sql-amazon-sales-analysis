@@ -173,8 +173,44 @@ Revenue distribution: The revenue distribution chart shows that revenue is not e
 
 - Monthly revenue
 - Monthly orders
-- Growth and decline trends
-- Seasonal patterns
+- Monthly Units Sold
+- Monthly Average Order Value
+
+-- **How does revenue change month by month?**
+2022-03 94810.0 
+2022-04 26234520.0 
+2022-05 23953534.0 
+2022-06 21390530.0
+
+-- **How many units were sold each month?**
+2022-03	152
+2022-04	42096
+2022-05	36269
+2022-06	32475
+
+-- **How many orders were placed each month?**
+2022-03	140
+2022-04	39132
+2022-05	33737
+2022-06	30184
+
+-- **How much revenue does the average order generate each month?**
+2022-03	677.214285714286
+2022-04	670.410916896657
+2022-05	710.007825236387
+2022-06	708.671150278293
+
+
+### Summary
+
+* **Revenue peaked in April 2022** at **26.23M**, followed by **23.95M in May** and **21.39M in June**, indicating a decline in monthly revenue after April.
+* **April also recorded the highest sales volume**, with **42,096 units sold** across **39,132 orders**.
+* **May and June experienced lower sales volume**, with 36,269 and 32,475 units sold, respectively.
+* **Average Order Value (AOV) remained relatively stable**, ranging from **677.21 in March** to **710.01 in May**. Despite the decline in order volume after April, average spending per order remained around 670–710.
+* **March had significantly lower revenue, units sold, and orders** than the following months, which may indicate that March represents only a partial period of the dataset.
+
+**Overall:** Sales activity was strongest in **April 2022**, while revenue and order volume declined through May and June. However, the relatively stable Average Order Value suggests that the decline was primarily driven by **fewer orders rather than a significant decrease in customer spending per order**.
+
 
 ## Business Recommendations
 
@@ -185,3 +221,4 @@ Key findings and actionable recommendations will be added after completing the a
 - SQLite
 - SQL
 - GitHub
+- OpenAI
