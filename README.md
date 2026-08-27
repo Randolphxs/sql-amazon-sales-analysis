@@ -214,7 +214,43 @@ Revenue distribution: The revenue distribution chart shows that revenue is not e
 
 ## Business Recommendations
 
-Key findings and actionable recommendations will be added after completing the analysis.
+Based on the analysis, the following recommendations could help improve sales performance, customer retention, and revenue stability:
+
+1. Focus on high-performing categories
+
+Set and Kurta generate the majority of both revenue and units sold. The business should prioritize inventory, marketing, and product launches in these categories while continuing to monitor their performance.
+
+2. Promote high-revenue products
+
+A small number of products contribute significantly to total revenue, particularly products such as J0230-SKD-M and JNE3797-KR-L. These products could be prioritized in promotions and featured collections to maximize their revenue potential.
+
+3. Review low-performing products
+
+Several products have extremely low sales, including products with only one sale or no sales. These products should be reviewed for possible causes such as low demand, pricing, sizing, or insufficient visibility. The business could consider reducing inventory or using targeted promotions to clear slow-moving stock.
+
+4. Strengthen relationships with high-value customers
+
+Revenue is concentrated among a relatively small number of customers, with MULBERRIES BOUTIQUE being the largest contributor. The business should focus on retaining high-value customers through personalized offers, repeat-order incentives, and stronger account relationships.
+
+5. Investigate the decline after April
+
+April 2022 generated the highest revenue and sales volume, followed by a decline in May and June. Since AOV remained relatively stable, the decline appears to be primarily driven by fewer orders rather than lower spending per order. The business should investigate why order volume decreased after April and identify ways to maintain April-level demand.
+
+6. Reduce order cancellations
+
+The cancellation rate is 14.21%, indicating that a meaningful portion of orders do not reach completion. The business should investigate the main causes of cancellations, such as inventory availability, fulfillment issues, or customer-related factors, and address the largest sources of cancellations.
+
+7. Optimize regional sales strategy
+
+Maharashtra is the strongest state by revenue. Marketing and inventory strategies could therefore prioritize high-performing regions while investigating lower-performing states and cities for opportunities to improve demand.
+
+8. Balance Amazon and Merchant fulfillment
+
+Amazon generated higher revenue and more orders than the Merchant channel. The business should compare the profitability, cancellation rates, and operational costs of both channels to determine where additional resources and inventory should be allocated.
+
+Overall Recommendation
+
+The business should prioritize high-performing products and categories, retain high-value customers, reduce cancellations, and investigate the decline in order volume after April 2022. These actions could help improve revenue stability while making better use of inventory and customer relationships.
 
 ## Tools Used
 
