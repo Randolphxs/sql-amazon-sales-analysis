@@ -178,26 +178,38 @@ Revenue distribution: The revenue distribution chart shows that revenue is not e
 
 -- **How does revenue change month by month?**
 2022-03 94810.0 
+
 2022-04 26234520.0 
+
 2022-05 23953534.0 
+
 2022-06 21390530.0
 
 -- **How many units were sold each month?**
 2022-03	152
+
 2022-04	42096
+
 2022-05	36269
+
 2022-06	32475
 
 -- **How many orders were placed each month?**
 2022-03	140
+
 2022-04	39132
+
 2022-05	33737
+
 2022-06	30184
 
 -- **How much revenue does the average order generate each month?**
 2022-03	677.214285714286
+
 2022-04	670.410916896657
+
 2022-05	710.007825236387
+
 2022-06	708.671150278293
 
 
